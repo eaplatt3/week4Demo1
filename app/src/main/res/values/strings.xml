@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">week4Demo1</string>
+
+    <string-array name="fsc_bcs_classes">
+        <item> BC120</item>
+    <item> BC120</item>
+    <item> BC160</item>
+    <item> BC150</item>
+    <item> BC180</item>
+    <item> BC110</item>
+
+
+    </string-array>
+
+</resources>
